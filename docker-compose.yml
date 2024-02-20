@@ -6,3 +6,4 @@ services:
     working_dir: /app
     ports: [4000:4000]
     tty: true
+    
